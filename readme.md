@@ -16,3 +16,7 @@ There are four tests for print, echo, concatenation, and array + implode already
 
 ## Author
 Daniel Doezema
+
+## License
+
+This code is released under the New BSD license. [http://dan.doezema.com/licenses/new-bsd/](http://dan.doezema.com/licenses/new-bsd/)
