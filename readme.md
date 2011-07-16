@@ -12,7 +12,7 @@ This repository contains tests for profiling the performance of various output m
 There are four tests for print, echo, concatenation, and array + implode already coded in the index.php file. Just uncomment the test you would like to run.
 
 ## Web Site
-[https://veloper@github.com/veloper/PHP-Output-Profiling.git](https://veloper@github.com/veloper/PHP-Output-Profiling.git)
+[http://dan.doezema.com/2011/07/php-output-profiling-echo-vs-concat/](http://dan.doezema.com/2011/07/php-output-profiling-echo-vs-concat/)
 
 ## Author
 Daniel Doezema
